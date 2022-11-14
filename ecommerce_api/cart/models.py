@@ -30,4 +30,4 @@ class CartItem(TimeStampedModel):
     )
     quantity = models.IntegerField(default=1)
 
-////
+
