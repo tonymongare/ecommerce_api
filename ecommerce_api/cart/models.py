@@ -32,4 +32,4 @@ class CartItem(TimeStampedModel):
     )
     quantity = models.IntegerField(default=1)
 
-
+#This is the End of cart model
