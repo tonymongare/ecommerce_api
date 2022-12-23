@@ -1,3 +1,5 @@
+#This is a cart model
+
 from django.db import models
 from products.models import Product
 from core.models import TimeStampedModel
